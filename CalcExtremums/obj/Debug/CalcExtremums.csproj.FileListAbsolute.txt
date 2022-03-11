@@ -1,0 +1,6 @@
+D:\MicrosoftVisualStudio\source\repos\CalcExtremums\CalcExtremums\bin\Debug\CalcExtremums.exe.config
+D:\MicrosoftVisualStudio\source\repos\CalcExtremums\CalcExtremums\bin\Debug\CalcExtremums.exe
+D:\MicrosoftVisualStudio\source\repos\CalcExtremums\CalcExtremums\bin\Debug\CalcExtremums.pdb
+D:\MicrosoftVisualStudio\source\repos\CalcExtremums\CalcExtremums\obj\Debug\CalcExtremums.csproj.CoreCompileInputs.cache
+D:\MicrosoftVisualStudio\source\repos\CalcExtremums\CalcExtremums\obj\Debug\CalcExtremums.exe
+D:\MicrosoftVisualStudio\source\repos\CalcExtremums\CalcExtremums\obj\Debug\CalcExtremums.pdb
