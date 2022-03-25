@@ -4973,11 +4973,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MicrosoftVisualStudio\\source\\repos\\CalcExtremums\\Tests\\Tests.csproj",
+      "projectUniqueName": "D:\\MicrosoftVisualStudio\\source\\repos\\Calculator-of-Extremums-main\\Tests\\Tests.csproj",
       "projectName": "Tests",
-      "projectPath": "D:\\MicrosoftVisualStudio\\source\\repos\\CalcExtremums\\Tests\\Tests.csproj",
+      "projectPath": "D:\\MicrosoftVisualStudio\\source\\repos\\Calculator-of-Extremums-main\\Tests\\Tests.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\MicrosoftVisualStudio\\source\\repos\\CalcExtremums\\Tests\\obj\\",
+      "outputPath": "D:\\MicrosoftVisualStudio\\source\\repos\\Calculator-of-Extremums-main\\Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4994,8 +4994,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\MicrosoftVisualStudio\\source\\repos\\CalcExtremums\\CalcExtremums\\CalcExtremums.csproj": {
-              "projectPath": "D:\\MicrosoftVisualStudio\\source\\repos\\CalcExtremums\\CalcExtremums\\CalcExtremums.csproj"
+            "D:\\MicrosoftVisualStudio\\source\\repos\\Calculator-of-Extremums-main\\CalcExtremums\\CalcExtremums.csproj": {
+              "projectPath": "D:\\MicrosoftVisualStudio\\source\\repos\\Calculator-of-Extremums-main\\CalcExtremums\\CalcExtremums.csproj"
             }
           }
         }

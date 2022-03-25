@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0zNjgocY/hq60bVA0bTLMFyu7XuPjzOeZ3cXMBmYaH+gsLB2Yas01U69qVqcngJqwpj51KiI0qkBZcPJeI1n3w==",
+  "dgSpecHash": "dbU/Nn2emEFNEErhgVVliyB1P1/U4n+fMBgPFVCTxbgtuIqkfMIVdNv4O9gVvchkg8fq0w7viPwPgdmzTEs2Mw==",
   "success": true,
-  "projectFilePath": "D:\\MicrosoftVisualStudio\\source\\repos\\CalcExtremums\\Tests\\Tests.csproj",
+  "projectFilePath": "D:\\MicrosoftVisualStudio\\source\\repos\\Calculator-of-Extremums-main\\Tests\\Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",
